@@ -1,0 +1,159 @@
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.exe
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.deps.json
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.runtimeconfig.json
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.pdb
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Configuration.ConfigurationManager.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Data.OleDb.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Diagnostics.EventLog.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Diagnostics.PerformanceCounter.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.AssemblyReference.cache
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmMain.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmAuthors.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmBank.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmCard.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmDoc.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmEdu.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmEduLevel.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmEO.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmFL.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListBank.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListCard.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListDocument.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListEducation.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListEduLevel.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListEO.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListFL.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListOrg.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListQual.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListRank.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListSpec.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListTypeDoc.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListWorker.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmOrg.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmQual.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmRank.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmSpec.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmTypeDoc.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmWorker.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.Resources.resources
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.GenerateResource.cache
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.GeneratedMSBuildEditorConfig.editorconfig
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.AssemblyInfoInputs.cache
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.AssemblyInfo.vb
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.CoreCompileInputs.cache
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.Up2Date
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\refint\Справочник.dll
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.pdb
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.genruntimeconfig.cache
+E:\ПО\Практические\4практич\Справочник\Справочник\obj\Debug\net8.0-windows7.0\ref\Справочник.dll
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.exe
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.deps.json
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.runtimeconfig.json
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.dll
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.pdb
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\Справочник\Справочник\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmMain.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmAuthors.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmBank.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmCard.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmDoc.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmEdu.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmEduLevel.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmEO.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmFL.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListBank.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListCard.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListDocument.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListEducation.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListEduLevel.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListEO.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListFL.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListOrg.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListQual.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListRank.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListSpec.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListTypeDoc.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListWorker.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmOrg.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmQual.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmRank.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmSpec.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmTypeDoc.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmWorker.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.Resources.resources
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.AssemblyInfo.vb
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.Up2Date
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.dll
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\refint\Справочник.dll
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.pdb
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.genruntimeconfig.cache
+C:\Users\User\Desktop\Справочник\Справочник\obj\Debug\net8.0-windows7.0\ref\Справочник.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.AssemblyReference.cache
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\refint\Справочник.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.pdb
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.exe
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.deps.json
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.runtimeconfig.json
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\Справочник.pdb
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Data.OleDb.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Diagnostics.EventLog.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmMain.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmAuthors.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmBank.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmCard.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmDoc.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmEdu.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmEduLevel.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmFL.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListBank.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListCard.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListDocument.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListEducation.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListEduLevel.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListEO.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListFL.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListOrg.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListQual.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListRank.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListSpec.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListTypeDoc.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmListWorker.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmOrg.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmQual.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmRank.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmSpec.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmTypeDoc.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmWorker.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.Resources.resources
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.GenerateResource.cache
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.AssemblyInfoInputs.cache
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.AssemblyInfo.vb
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.CoreCompileInputs.cache
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.vbproj.Up2Date
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.genruntimeconfig.cache
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\ref\Справочник.dll
+C:\Users\Ra1s1n\OneDrive\Desktop\ \Домашке\Справочник\Справочник\obj\Debug\net8.0-windows7.0\Справочник.frmEducInst.resources

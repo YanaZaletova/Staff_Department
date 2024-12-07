@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfTPiSoDsVc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ra1s1n\\OneDrive\\Desktop\\ \\Домашке\\Справочник\\Справочник\\Справочник.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ra1s1n\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ra1s1n\\.nuget\\packages\\system.data.oledb\\8.0.1\\system.data.oledb.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ra1s1n\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.1\\system.diagnostics.eventlog.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ra1s1n\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.1\\system.diagnostics.performancecounter.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ra1s1n\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

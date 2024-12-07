@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAuthors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEdu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEduLevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEducInst.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListBankvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListCardvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListDocument.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListEducation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListEduLevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListEO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListFL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListOrg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListQual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListRank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListSpec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListTypeDoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListWorker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmOrg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSpec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTypeDoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmWorker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="frmListBankvb.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
