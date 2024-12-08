@@ -22,7 +22,6 @@ Partial Class frmAuthors
     'Не изменяйте ее в редакторе исходного кода.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmAuthors))
         lblAuthors = New Label()
         cmdClose = New Button()
         HelpProvider1 = New HelpProvider()
@@ -43,9 +42,8 @@ Partial Class frmAuthors
         ' 
         ' cmdClose
         ' 
-        cmdClose.Image = CType(resources.GetObject("cmdClose.Image"), Image)
         cmdClose.ImageAlign = ContentAlignment.TopLeft
-        cmdClose.Location = New Point(12, 271)
+        cmdClose.Location = New Point(309, 271)
         cmdClose.Name = "cmdClose"
         cmdClose.Size = New Size(132, 38)
         cmdClose.TabIndex = 1

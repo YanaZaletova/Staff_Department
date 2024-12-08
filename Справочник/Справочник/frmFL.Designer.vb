@@ -44,140 +44,132 @@ Partial Class frmFL
         ' ID
         ' 
         ID.AutoSize = True
-        ID.Location = New Point(584, 9)
+        ID.Location = New Point(667, 12)
         ID.Name = "ID"
-        ID.Size = New Size(41, 15)
+        ID.Size = New Size(53, 20)
         ID.TabIndex = 0
         ID.Text = "Label1"
         ' 
         ' Fam
         ' 
         Fam.AutoSize = True
-        Fam.Location = New Point(10, 19)
+        Fam.Location = New Point(11, 25)
         Fam.Name = "Fam"
-        Fam.Size = New Size(41, 15)
+        Fam.Size = New Size(53, 20)
         Fam.TabIndex = 1
         Fam.Text = "Label2"
         ' 
         ' Imya
         ' 
         Imya.AutoSize = True
-        Imya.Location = New Point(10, 62)
+        Imya.Location = New Point(11, 83)
         Imya.Name = "Imya"
-        Imya.Size = New Size(41, 15)
+        Imya.Size = New Size(53, 20)
         Imya.TabIndex = 2
         Imya.Text = "Label3"
         ' 
         ' Otch
         ' 
         Otch.AutoSize = True
-        Otch.Location = New Point(10, 106)
+        Otch.Location = New Point(11, 141)
         Otch.Name = "Otch"
-        Otch.Size = New Size(41, 15)
+        Otch.Size = New Size(53, 20)
         Otch.TabIndex = 3
         Otch.Text = "Label4"
         ' 
         ' DateBirth
         ' 
         DateBirth.AutoSize = True
-        DateBirth.Location = New Point(10, 152)
+        DateBirth.Location = New Point(11, 203)
         DateBirth.Name = "DateBirth"
-        DateBirth.Size = New Size(41, 15)
+        DateBirth.Size = New Size(53, 20)
         DateBirth.TabIndex = 4
         DateBirth.Text = "Label5"
         ' 
         ' Address
         ' 
         Address.AutoSize = True
-        Address.Location = New Point(10, 206)
+        Address.Location = New Point(11, 275)
         Address.Name = "Address"
-        Address.Size = New Size(41, 15)
+        Address.Size = New Size(53, 20)
         Address.TabIndex = 5
         Address.Text = "Label6"
         ' 
         ' Tel
         ' 
         Tel.AutoSize = True
-        Tel.Location = New Point(10, 292)
+        Tel.Location = New Point(11, 389)
         Tel.Name = "Tel"
-        Tel.Size = New Size(41, 15)
+        Tel.Size = New Size(53, 20)
         Tel.TabIndex = 6
         Tel.Text = "Label7"
         ' 
         ' textFam
         ' 
-        textFam.Location = New Point(133, 16)
-        textFam.Margin = New Padding(3, 2, 3, 2)
+        textFam.Location = New Point(152, 21)
         textFam.Name = "textFam"
-        textFam.Size = New Size(110, 23)
+        textFam.Size = New Size(341, 27)
         textFam.TabIndex = 7
         ' 
         ' textImya
         ' 
-        textImya.Location = New Point(133, 62)
-        textImya.Margin = New Padding(3, 2, 3, 2)
+        textImya.Location = New Point(152, 83)
         textImya.Name = "textImya"
-        textImya.Size = New Size(110, 23)
+        textImya.Size = New Size(341, 27)
         textImya.TabIndex = 8
         ' 
         ' textOtch
         ' 
-        textOtch.Location = New Point(133, 104)
-        textOtch.Margin = New Padding(3, 2, 3, 2)
+        textOtch.Location = New Point(152, 139)
         textOtch.Name = "textOtch"
-        textOtch.Size = New Size(110, 23)
+        textOtch.Size = New Size(341, 27)
         textOtch.TabIndex = 9
         ' 
         ' textAddress
         ' 
-        textAddress.Location = New Point(133, 204)
-        textAddress.Margin = New Padding(3, 2, 3, 2)
+        textAddress.Location = New Point(152, 272)
         textAddress.Multiline = True
         textAddress.Name = "textAddress"
-        textAddress.Size = New Size(196, 62)
+        textAddress.Size = New Size(341, 81)
         textAddress.TabIndex = 11
         ' 
         ' textTel
         ' 
-        textTel.Location = New Point(133, 290)
-        textTel.Margin = New Padding(3, 2, 3, 2)
+        textTel.Location = New Point(152, 387)
         textTel.Name = "textTel"
-        textTel.Size = New Size(110, 23)
+        textTel.Size = New Size(341, 27)
         textTel.TabIndex = 12
         ' 
         ' cmdSave
         ' 
-        cmdSave.Location = New Point(431, 307)
-        cmdSave.Margin = New Padding(3, 2, 3, 2)
+        cmdSave.Location = New Point(557, 410)
         cmdSave.Name = "cmdSave"
-        cmdSave.Size = New Size(82, 22)
+        cmdSave.Size = New Size(94, 29)
         cmdSave.TabIndex = 13
         cmdSave.Text = "Сохранить"
         cmdSave.UseVisualStyleBackColor = True
         ' 
         ' cmdExit
         ' 
-        cmdExit.Location = New Point(557, 307)
-        cmdExit.Margin = New Padding(3, 2, 3, 2)
+        cmdExit.Location = New Point(679, 409)
         cmdExit.Name = "cmdExit"
-        cmdExit.Size = New Size(82, 22)
+        cmdExit.Size = New Size(94, 29)
         cmdExit.TabIndex = 14
         cmdExit.Text = "Закрыть"
         cmdExit.UseVisualStyleBackColor = True
         ' 
         ' textDateBirth
         ' 
-        textDateBirth.Location = New Point(133, 149)
-        textDateBirth.Margin = New Padding(3, 2, 3, 2)
+        textDateBirth.Location = New Point(152, 199)
         textDateBirth.Name = "textDateBirth"
-        textDateBirth.Size = New Size(110, 23)
+        textDateBirth.Size = New Size(341, 27)
         textDateBirth.TabIndex = 15
         ' 
         ' frmFL
         ' 
-        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(700, 338)
+        ClientSize = New Size(800, 451)
         Controls.Add(textDateBirth)
         Controls.Add(cmdExit)
         Controls.Add(cmdSave)
@@ -193,7 +185,6 @@ Partial Class frmFL
         Controls.Add(Imya)
         Controls.Add(Fam)
         Controls.Add(ID)
-        Margin = New Padding(3, 2, 3, 2)
         Name = "frmFL"
         StartPosition = FormStartPosition.CenterParent
         Text = "frmFL"

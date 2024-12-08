@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Справочник"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f75aaa860d879805f6eef6070472951637b32ced"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Справочник"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Справочник"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

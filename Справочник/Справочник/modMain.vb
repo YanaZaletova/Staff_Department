@@ -2,7 +2,7 @@
 Module modMain
 
     Public strDBFileName As String = "DatabasePO.accdb"
-    Public helpFileName As String = "E:\ПО\Практические\5практич\Справочная система\Справочная система.chm"
+    Public helpFileName As String = "help/help_work.chm"
 
     Public intIDFL As Integer = 0
 

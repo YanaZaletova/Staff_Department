@@ -7,7 +7,6 @@ Public Class frmFL
 
     Private Sub frmFL_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
 
-
         With Me
 
             Select Case strFormMode

@@ -143,6 +143,7 @@ Partial Class frmListWorker
         Controls.Add(cmdExit)
         Controls.Add(lblTotalField)
         Controls.Add(tspMain)
+        Icon = CType(resources.GetObject("$this.Icon"), Icon)
         Name = "frmListWorker"
         StartPosition = FormStartPosition.CenterParent
         Text = "frmListWorker"
