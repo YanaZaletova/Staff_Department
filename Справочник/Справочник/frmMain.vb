@@ -5,8 +5,8 @@
         frmBank.MdiParent = Me
         frmCard.MdiParent = Me
         frmDoc.MdiParent = Me
-        frmEdu.MdiParent = Me
-        frmEducInst.MdiParent = Me
+        frmEducation.MdiParent = Me
+        frmEO.MdiParent = Me
         frmEduLevel.MdiParent = Me
         frmFL.MdiParent = Me
         frmListBank.MdiParent = Me

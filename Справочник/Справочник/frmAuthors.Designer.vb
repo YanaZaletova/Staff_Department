@@ -33,19 +33,20 @@ Partial Class frmAuthors
         HelpProvider1.SetHelpKeyword(lblAuthors, "Авторы")
         HelpProvider1.SetHelpNavigator(lblAuthors, HelpNavigator.KeywordIndex)
         HelpProvider1.SetHelpString(lblAuthors, "Если у вас возникли вопросы или предложения, свяжитесь с нами: Email: supportpo@mail.ru, Телефон: +7 (909) 789-15-49 ")
-        lblAuthors.Location = New Point(23, 56)
+        lblAuthors.Location = New Point(20, 42)
         lblAuthors.Name = "lblAuthors"
         HelpProvider1.SetShowHelp(lblAuthors, True)
-        lblAuthors.Size = New Size(53, 20)
+        lblAuthors.Size = New Size(41, 15)
         lblAuthors.TabIndex = 0
         lblAuthors.Text = "Label1"
         ' 
         ' cmdClose
         ' 
         cmdClose.ImageAlign = ContentAlignment.TopLeft
-        cmdClose.Location = New Point(309, 271)
+        cmdClose.Location = New Point(80, 125)
+        cmdClose.Margin = New Padding(3, 2, 3, 2)
         cmdClose.Name = "cmdClose"
-        cmdClose.Size = New Size(132, 38)
+        cmdClose.Size = New Size(116, 28)
         cmdClose.TabIndex = 1
         cmdClose.Text = "Button1"
         cmdClose.UseVisualStyleBackColor = True
@@ -56,13 +57,14 @@ Partial Class frmAuthors
         ' 
         ' frmAuthors
         ' 
-        AutoScaleDimensions = New SizeF(8F, 20F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(465, 321)
+        ClientSize = New Size(210, 169)
         Controls.Add(cmdClose)
         Controls.Add(lblAuthors)
         FormBorderStyle = FormBorderStyle.FixedSingle
         HelpButton = True
+        Margin = New Padding(3, 2, 3, 2)
         MaximizeBox = False
         MinimizeBox = False
         Name = "frmAuthors"

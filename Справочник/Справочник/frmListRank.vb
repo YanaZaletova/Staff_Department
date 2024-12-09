@@ -84,8 +84,6 @@ objCommand.ExecuteReader(CommandBehavior.CloseConnection)
 
     Private Sub tsbAdd_Click(sender As System.Object, e As System.EventArgs) Handles tsbAdd.Click
 
-        'Dim objFL1 As Физлицо = New Физлицо(98754834)
-
         strFormMode = "ADD"
         frmRank.Show()
 

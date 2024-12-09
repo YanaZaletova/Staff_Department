@@ -1,7 +1,7 @@
 ﻿
 Public Class frmAuthors
     Private Sub frmAuthors_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        lblAuthors.Text = "Разработчики:" & vbCrLf & "Ялалова Юлиана — разработчик и тестировщик" & vbCrLf & "Залётова Яна - разработчик и тестировщик"
+        lblAuthors.Text = "Создатели:" & vbCrLf & "Ялалова Юлиана" & vbCrLf & "Залётова Яна"
         cmdClose.Text = "Закрыть"
     End Sub
 

@@ -1,4 +1,4 @@
-﻿Public Class frmEdu
+﻿Public Class frmEducation
     Dim objFL1 As Образование
 
     Private Sub frmEdu_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load

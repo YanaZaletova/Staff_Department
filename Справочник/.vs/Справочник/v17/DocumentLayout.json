@@ -1,48 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\modmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\modmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmauthors.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmauthors.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmauthors.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmauthors.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmlistworker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmlistworker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmfl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmfl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmfl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmfl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmbank.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmbank.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|c:\\users\\user\\desktop\\staff_department\\staff_department\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmbank.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{42B21366-49A9-4BD8-9B8B-B54D36B0E33F}|\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A.vbproj|solutionrelative:\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmbank.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Ra1s1n\\Documents\\GitHub\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,137 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmMain.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmMain.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmMain.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmMain.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmMain.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-07T19:27:01.528Z",
-              "IsPinned": true,
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmMain.vb",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmMain.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmMain.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmMain.vb",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmMain.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-07T19:28:39.907Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmAuthors.vb",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmAuthors.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmAuthors.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmAuthors.vb",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmAuthors.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-08T11:33:37.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "modMain.vb",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\modMain.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\modMain.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\modMain.vb",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\modMain.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-08T11:32:35.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmListWorker.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmListWorker.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmListWorker.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmListWorker.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmListWorker.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-08T10:26:00.175Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmAuthors.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmAuthors.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmAuthors.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmAuthors.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmAuthors.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-08T09:35:26.975Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmFL.vb",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmFL.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmFL.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmFL.vb",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmFL.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-07T19:34:21.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmFL.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmFL.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmFL.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmFL.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmFL.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-07T19:34:19.164Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmBank.vb",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmBank.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmBank.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmBank.vb",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmBank.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-07T19:33:19.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmBank.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmBank.vb",
-              "RelativeDocumentMoniker": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmBank.vb",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Staff_Department\\Staff_Department\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmBank.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\\frmBank.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-07T19:33:15.923Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }

@@ -42,9 +42,9 @@ Partial Class frmListBank
         ' lblCount
         ' 
         lblCount.AutoSize = True
-        lblCount.Location = New Point(447, 397)
+        lblCount.Location = New Point(391, 298)
         lblCount.Name = "lblCount"
-        lblCount.Size = New Size(53, 20)
+        lblCount.Size = New Size(41, 15)
         lblCount.TabIndex = 23
         lblCount.Text = "Label1"
         ' 
@@ -52,18 +52,20 @@ Partial Class frmListBank
         ' 
         dgdList.AllowUserToAddRows = False
         dgdList.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        dgdList.Location = New Point(12, 42)
+        dgdList.Location = New Point(10, 32)
+        dgdList.Margin = New Padding(3, 2, 3, 2)
         dgdList.Name = "dgdList"
         dgdList.ReadOnly = True
         dgdList.RowHeadersWidth = 51
-        dgdList.Size = New Size(776, 342)
+        dgdList.Size = New Size(679, 256)
         dgdList.TabIndex = 22
         ' 
         ' cmdExit
         ' 
-        cmdExit.Location = New Point(683, 418)
+        cmdExit.Location = New Point(598, 314)
+        cmdExit.Margin = New Padding(3, 2, 3, 2)
         cmdExit.Name = "cmdExit"
-        cmdExit.Size = New Size(94, 29)
+        cmdExit.Size = New Size(82, 22)
         cmdExit.TabIndex = 21
         cmdExit.Text = "Button1"
         cmdExit.UseVisualStyleBackColor = True
@@ -71,9 +73,9 @@ Partial Class frmListBank
         ' lblTotalField
         ' 
         lblTotalField.AutoSize = True
-        lblTotalField.Location = New Point(624, 397)
+        lblTotalField.Location = New Point(546, 298)
         lblTotalField.Name = "lblTotalField"
-        lblTotalField.Size = New Size(53, 20)
+        lblTotalField.Size = New Size(41, 15)
         lblTotalField.TabIndex = 20
         lblTotalField.Text = "Label1"
         ' 
@@ -83,7 +85,7 @@ Partial Class frmListBank
         tspMain.Items.AddRange(New ToolStripItem() {tsbAdd, tsbRemove, tsbEdit, tsbExit})
         tspMain.Location = New Point(0, 0)
         tspMain.Name = "tspMain"
-        tspMain.Size = New Size(800, 27)
+        tspMain.Size = New Size(700, 27)
         tspMain.TabIndex = 19
         tspMain.Text = "ToolStrip1"
         ' 
@@ -93,16 +95,15 @@ Partial Class frmListBank
         tsbAdd.Image = CType(resources.GetObject("tsbAdd.Image"), Image)
         tsbAdd.ImageTransparentColor = Color.Magenta
         tsbAdd.Name = "tsbAdd"
-        tsbAdd.Size = New Size(29, 24)
+        tsbAdd.Size = New Size(24, 24)
         tsbAdd.Text = "Добавить"
         ' 
         ' tsbRemove
         ' 
         tsbRemove.DisplayStyle = ToolStripItemDisplayStyle.Image
-        tsbRemove.Image = CType(resources.GetObject("tsbRemove.Image"), Image)
         tsbRemove.ImageTransparentColor = Color.Magenta
         tsbRemove.Name = "tsbRemove"
-        tsbRemove.Size = New Size(29, 24)
+        tsbRemove.Size = New Size(23, 24)
         tsbRemove.Text = "Удалить"
         ' 
         ' tsbEdit
@@ -111,7 +112,7 @@ Partial Class frmListBank
         tsbEdit.Image = CType(resources.GetObject("tsbEdit.Image"), Image)
         tsbEdit.ImageTransparentColor = Color.Magenta
         tsbEdit.Name = "tsbEdit"
-        tsbEdit.Size = New Size(29, 24)
+        tsbEdit.Size = New Size(24, 24)
         tsbEdit.Text = "Изменить"
         ' 
         ' tsbExit
@@ -120,7 +121,7 @@ Partial Class frmListBank
         tsbExit.Image = CType(resources.GetObject("tsbExit.Image"), Image)
         tsbExit.ImageTransparentColor = Color.Magenta
         tsbExit.Name = "tsbExit"
-        tsbExit.Size = New Size(29, 24)
+        tsbExit.Size = New Size(24, 24)
         tsbExit.Text = "Закрыть"
         ' 
         ' ilsIcons
@@ -135,14 +136,15 @@ Partial Class frmListBank
         ' 
         ' frmListBank
         ' 
-        AutoScaleDimensions = New SizeF(8F, 20F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(700, 338)
         Controls.Add(lblCount)
         Controls.Add(dgdList)
         Controls.Add(cmdExit)
         Controls.Add(lblTotalField)
         Controls.Add(tspMain)
+        Margin = New Padding(3, 2, 3, 2)
         Name = "frmListBank"
         StartPosition = FormStartPosition.CenterParent
         Text = "frmListBank"

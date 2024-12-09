@@ -62,31 +62,32 @@ Partial Class frmMain
         ' lblCount
         ' 
         lblCount.AutoSize = True
-        lblCount.Location = New Point(447, 388)
+        lblCount.Location = New Point(391, 291)
         lblCount.Name = "lblCount"
-        lblCount.Size = New Size(0, 20)
+        lblCount.Size = New Size(0, 15)
         lblCount.TabIndex = 13
         ' 
         ' StatusStrip1
         ' 
         StatusStrip1.ImageScalingSize = New Size(20, 20)
         StatusStrip1.Items.AddRange(New ToolStripItem() {ToolStripStatusLabel1, ToolStripStatusLabel2})
-        StatusStrip1.Location = New Point(0, 882)
+        StatusStrip1.Location = New Point(0, 659)
         StatusStrip1.Name = "StatusStrip1"
-        StatusStrip1.Size = New Size(1584, 26)
+        StatusStrip1.Padding = New Padding(1, 0, 12, 0)
+        StatusStrip1.Size = New Size(1386, 22)
         StatusStrip1.TabIndex = 17
         StatusStrip1.Text = "StatusStrip1"
         ' 
         ' ToolStripStatusLabel1
         ' 
         ToolStripStatusLabel1.Name = "ToolStripStatusLabel1"
-        ToolStripStatusLabel1.Size = New Size(153, 20)
+        ToolStripStatusLabel1.Size = New Size(119, 17)
         ToolStripStatusLabel1.Text = "ToolStripStatusLabel1"
         ' 
         ' ToolStripStatusLabel2
         ' 
         ToolStripStatusLabel2.Name = "ToolStripStatusLabel2"
-        ToolStripStatusLabel2.Size = New Size(153, 20)
+        ToolStripStatusLabel2.Size = New Size(119, 17)
         ToolStripStatusLabel2.Text = "ToolStripStatusLabel2"
         ' 
         ' Timer1
@@ -96,132 +97,132 @@ Partial Class frmMain
         ' 
         СправочникиToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {ФизЛицаToolStripMenuItem, СотрудникиToolStripMenuItem, ДокументыToolStripMenuItem, ОбразованиеToolStripMenuItem, БанковскиеРеквизитыToolStripMenuItem})
         СправочникиToolStripMenuItem.Name = "СправочникиToolStripMenuItem"
-        СправочникиToolStripMenuItem.Size = New Size(117, 24)
+        СправочникиToolStripMenuItem.Size = New Size(94, 20)
         СправочникиToolStripMenuItem.Text = "Справочники"
         ' 
         ' ФизЛицаToolStripMenuItem
         ' 
         ФизЛицаToolStripMenuItem.Name = "ФизЛицаToolStripMenuItem"
-        ФизЛицаToolStripMenuItem.Size = New Size(251, 26)
+        ФизЛицаToolStripMenuItem.Size = New Size(199, 22)
         ФизЛицаToolStripMenuItem.Text = "Физлицо"
         ' 
         ' СотрудникиToolStripMenuItem
         ' 
         СотрудникиToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {СотрудникиToolStripMenuItem1, ДолжностиToolStripMenuItem, КвалификацииToolStripMenuItem})
         СотрудникиToolStripMenuItem.Name = "СотрудникиToolStripMenuItem"
-        СотрудникиToolStripMenuItem.Size = New Size(251, 26)
+        СотрудникиToolStripMenuItem.Size = New Size(199, 22)
         СотрудникиToolStripMenuItem.Text = "Сотрудники"
         ' 
         ' СотрудникиToolStripMenuItem1
         ' 
         СотрудникиToolStripMenuItem1.Name = "СотрудникиToolStripMenuItem1"
-        СотрудникиToolStripMenuItem1.Size = New Size(195, 26)
+        СотрудникиToolStripMenuItem1.Size = New Size(156, 22)
         СотрудникиToolStripMenuItem1.Text = "Сотрудники"
         ' 
         ' ДолжностиToolStripMenuItem
         ' 
         ДолжностиToolStripMenuItem.Name = "ДолжностиToolStripMenuItem"
-        ДолжностиToolStripMenuItem.Size = New Size(195, 26)
+        ДолжностиToolStripMenuItem.Size = New Size(156, 22)
         ДолжностиToolStripMenuItem.Text = "Должности"
         ' 
         ' КвалификацииToolStripMenuItem
         ' 
         КвалификацииToolStripMenuItem.Name = "КвалификацииToolStripMenuItem"
-        КвалификацииToolStripMenuItem.Size = New Size(195, 26)
+        КвалификацииToolStripMenuItem.Size = New Size(156, 22)
         КвалификацииToolStripMenuItem.Text = "Квалификации"
         ' 
         ' ДокументыToolStripMenuItem
         ' 
         ДокументыToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {ТипыДокументовToolStripMenuItem, ОрганизацииToolStripMenuItem, ДокументыToolStripMenuItem1})
         ДокументыToolStripMenuItem.Name = "ДокументыToolStripMenuItem"
-        ДокументыToolStripMenuItem.Size = New Size(251, 26)
+        ДокументыToolStripMenuItem.Size = New Size(199, 22)
         ДокументыToolStripMenuItem.Text = "Документы"
         ' 
         ' ТипыДокументовToolStripMenuItem
         ' 
         ТипыДокументовToolStripMenuItem.Name = "ТипыДокументовToolStripMenuItem"
-        ТипыДокументовToolStripMenuItem.Size = New Size(215, 26)
+        ТипыДокументовToolStripMenuItem.Size = New Size(171, 22)
         ТипыДокументовToolStripMenuItem.Text = "Типы документов"
         ' 
         ' ОрганизацииToolStripMenuItem
         ' 
         ОрганизацииToolStripMenuItem.Name = "ОрганизацииToolStripMenuItem"
-        ОрганизацииToolStripMenuItem.Size = New Size(215, 26)
+        ОрганизацииToolStripMenuItem.Size = New Size(171, 22)
         ОрганизацииToolStripMenuItem.Text = "Организации"
         ' 
         ' ДокументыToolStripMenuItem1
         ' 
         ДокументыToolStripMenuItem1.Name = "ДокументыToolStripMenuItem1"
-        ДокументыToolStripMenuItem1.Size = New Size(215, 26)
+        ДокументыToolStripMenuItem1.Size = New Size(171, 22)
         ДокументыToolStripMenuItem1.Text = "Документы"
         ' 
         ' ОбразованиеToolStripMenuItem
         ' 
         ОбразованиеToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {ОбразованиеToolStripMenuItem1, УровеньОбразованияToolStripMenuItem, ОбразовательныеУчрежденияToolStripMenuItem, СпециальностиToolStripMenuItem})
         ОбразованиеToolStripMenuItem.Name = "ОбразованиеToolStripMenuItem"
-        ОбразованиеToolStripMenuItem.Size = New Size(251, 26)
+        ОбразованиеToolStripMenuItem.Size = New Size(199, 22)
         ОбразованиеToolStripMenuItem.Text = "Образование"
         ' 
         ' ОбразованиеToolStripMenuItem1
         ' 
         ОбразованиеToolStripMenuItem1.Name = "ОбразованиеToolStripMenuItem1"
-        ОбразованиеToolStripMenuItem1.Size = New Size(308, 26)
+        ОбразованиеToolStripMenuItem1.Size = New Size(243, 22)
         ОбразованиеToolStripMenuItem1.Text = "Образование"
         ' 
         ' УровеньОбразованияToolStripMenuItem
         ' 
         УровеньОбразованияToolStripMenuItem.Name = "УровеньОбразованияToolStripMenuItem"
-        УровеньОбразованияToolStripMenuItem.Size = New Size(308, 26)
+        УровеньОбразованияToolStripMenuItem.Size = New Size(243, 22)
         УровеньОбразованияToolStripMenuItem.Text = "Уровни образования"
         ' 
         ' ОбразовательныеУчрежденияToolStripMenuItem
         ' 
         ОбразовательныеУчрежденияToolStripMenuItem.Name = "ОбразовательныеУчрежденияToolStripMenuItem"
-        ОбразовательныеУчрежденияToolStripMenuItem.Size = New Size(308, 26)
+        ОбразовательныеУчрежденияToolStripMenuItem.Size = New Size(243, 22)
         ОбразовательныеУчрежденияToolStripMenuItem.Text = "Образовательные учреждения"
         ' 
         ' СпециальностиToolStripMenuItem
         ' 
         СпециальностиToolStripMenuItem.Name = "СпециальностиToolStripMenuItem"
-        СпециальностиToolStripMenuItem.Size = New Size(308, 26)
+        СпециальностиToolStripMenuItem.Size = New Size(243, 22)
         СпециальностиToolStripMenuItem.Text = "Специальности"
         ' 
         ' БанковскиеРеквизитыToolStripMenuItem
         ' 
         БанковскиеРеквизитыToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {БанковскиеКартыToolStripMenuItem, БанкиToolStripMenuItem})
         БанковскиеРеквизитыToolStripMenuItem.Name = "БанковскиеРеквизитыToolStripMenuItem"
-        БанковскиеРеквизитыToolStripMenuItem.Size = New Size(251, 26)
+        БанковскиеРеквизитыToolStripMenuItem.Size = New Size(199, 22)
         БанковскиеРеквизитыToolStripMenuItem.Text = "Банковские реквизиты"
         ' 
         ' БанковскиеКартыToolStripMenuItem
         ' 
         БанковскиеКартыToolStripMenuItem.Name = "БанковскиеКартыToolStripMenuItem"
-        БанковскиеКартыToolStripMenuItem.Size = New Size(218, 26)
+        БанковскиеКартыToolStripMenuItem.Size = New Size(174, 22)
         БанковскиеКартыToolStripMenuItem.Text = "Банковские карты"
         ' 
         ' БанкиToolStripMenuItem
         ' 
         БанкиToolStripMenuItem.Name = "БанкиToolStripMenuItem"
-        БанкиToolStripMenuItem.Size = New Size(218, 26)
+        БанкиToolStripMenuItem.Size = New Size(174, 22)
         БанкиToolStripMenuItem.Text = "Банки"
         ' 
         ' СправкаToolStripMenuItem
         ' 
         СправкаToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {bHelp, ОбАвторахToolStripMenuItem})
         СправкаToolStripMenuItem.Name = "СправкаToolStripMenuItem"
-        СправкаToolStripMenuItem.Size = New Size(81, 24)
+        СправкаToolStripMenuItem.Size = New Size(65, 20)
         СправкаToolStripMenuItem.Text = "Справка"
         ' 
         ' bHelp
         ' 
         bHelp.Name = "bHelp"
-        bHelp.Size = New Size(224, 26)
+        bHelp.Size = New Size(145, 22)
         bHelp.Text = "Справка"
         ' 
         ' ОбАвторахToolStripMenuItem
         ' 
         ОбАвторахToolStripMenuItem.Name = "ОбАвторахToolStripMenuItem"
-        ОбАвторахToolStripMenuItem.Size = New Size(224, 26)
+        ОбАвторахToolStripMenuItem.Size = New Size(145, 22)
         ОбАвторахToolStripMenuItem.Text = "Об авторах..."
         ' 
         ' MenuStrip1
@@ -230,46 +231,48 @@ Partial Class frmMain
         MenuStrip1.Items.AddRange(New ToolStripItem() {ФайлToolStripMenuItem, ПравкаToolStripMenuItem, ВидToolStripMenuItem, ФорматToolStripMenuItem, СправочникиToolStripMenuItem, СправкаToolStripMenuItem})
         MenuStrip1.Location = New Point(0, 0)
         MenuStrip1.Name = "MenuStrip1"
-        MenuStrip1.Size = New Size(1584, 28)
+        MenuStrip1.Padding = New Padding(5, 2, 0, 2)
+        MenuStrip1.Size = New Size(1386, 24)
         MenuStrip1.TabIndex = 15
         MenuStrip1.Text = "MenuStrip1"
         ' 
         ' ФайлToolStripMenuItem
         ' 
         ФайлToolStripMenuItem.Name = "ФайлToolStripMenuItem"
-        ФайлToolStripMenuItem.Size = New Size(59, 24)
+        ФайлToolStripMenuItem.Size = New Size(48, 20)
         ФайлToolStripMenuItem.Text = "Файл"
         ' 
         ' ПравкаToolStripMenuItem
         ' 
         ПравкаToolStripMenuItem.Name = "ПравкаToolStripMenuItem"
-        ПравкаToolStripMenuItem.Size = New Size(74, 24)
+        ПравкаToolStripMenuItem.Size = New Size(59, 20)
         ПравкаToolStripMenuItem.Text = "Правка"
         ' 
         ' ВидToolStripMenuItem
         ' 
         ВидToolStripMenuItem.Name = "ВидToolStripMenuItem"
-        ВидToolStripMenuItem.Size = New Size(49, 24)
+        ВидToolStripMenuItem.Size = New Size(39, 20)
         ВидToolStripMenuItem.Text = "Вид"
         ' 
         ' ФорматToolStripMenuItem
         ' 
         ФорматToolStripMenuItem.Name = "ФорматToolStripMenuItem"
-        ФорматToolStripMenuItem.Size = New Size(77, 24)
+        ФорматToolStripMenuItem.Size = New Size(62, 20)
         ФорматToolStripMenuItem.Text = "Формат"
         ' 
         ' frmMain
         ' 
-        AutoScaleDimensions = New SizeF(8F, 20F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), Image)
         BackgroundImageLayout = ImageLayout.Center
-        ClientSize = New Size(1584, 908)
+        ClientSize = New Size(1386, 681)
         Controls.Add(StatusStrip1)
         Controls.Add(lblCount)
         Controls.Add(MenuStrip1)
         Icon = CType(resources.GetObject("$this.Icon"), Icon)
         IsMdiContainer = True
+        Margin = New Padding(3, 2, 3, 2)
         Name = "frmMain"
         StartPosition = FormStartPosition.CenterScreen
         Text = "frmMain"

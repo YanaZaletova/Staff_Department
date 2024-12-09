@@ -86,7 +86,7 @@
         'Dim objFL1 As Физлицо = New Физлицо(98754834)
 
         strFormMode = "ADD"
-        frmEducInst.Show()
+        frmEO.Show()
 
     End Sub
 
@@ -96,7 +96,7 @@
 
         strFormMode = "EDIT"
 
-        frmEducInst.Show()
+        frmEO.Show()
 
     End Sub
 
